@@ -1,0 +1,32 @@
+1:-  System.out.println("A\nB\nC\nD\nE");
+Example Output:-
+
+A
+B
+C
+D
+E
+---------------------------------------------
+2:-(correct up to 2 decimal places).
+do Average:-
+Input:-
+22
+51
+2
+7
+73
+
+Example Output:-
+
+System.out.print(String.format("%.2f",sum));
+Output:-
+31.00
+
+
+
+System.out.print(String.format("%.0f", sum));
+31
+
+---------------------------------------------
+3:-System.out.println(Math.round(10.4));  // Output: 10
+

@@ -1,0 +1,11 @@
+1:-Math.floor:-
+ Always rounds downward (toward negative infinity).
+ 
+System.out.println(Math.floor(10.9));  // Output: 10.0
+
+-------------------------------------------------------
+2:-Math.abs :- Returns positive value of any number.
+
+System.out.println(Math.abs(10));    // Output: 10
+System.out.println(Math.abs(-10));   // Output: 10
+-------------------------------------------------------

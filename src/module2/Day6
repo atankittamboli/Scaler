@@ -1,0 +1,7 @@
+1:- count the digiit in number:-
+
+input:- 102020
+output:- 6
+
+System.out.println(String.valueOf(102020).length);
+-------------------------------------------------
